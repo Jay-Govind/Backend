@@ -1,2 +1,2 @@
 # Backend
-NodeJS, EJS, MySQL, MongoDB, Express, React
+<b>NodeJS, EJS, MySQL, MongoDB, Express, React</b>
