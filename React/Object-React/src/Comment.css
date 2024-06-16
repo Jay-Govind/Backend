@@ -1,0 +1,11 @@
+.Comment {
+    border: 1px solid pink;
+    border-radius: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h3 {
+    color: aliceblue;
+}

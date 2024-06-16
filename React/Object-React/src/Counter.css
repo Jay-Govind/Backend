@@ -1,0 +1,7 @@
+span {
+    height: 50px;
+    width: 100px;
+    border: 1px solid pink;
+    border-radius: 15px;
+    padding: 10px;
+}
