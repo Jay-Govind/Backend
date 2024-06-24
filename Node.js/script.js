@@ -11,5 +11,11 @@
 
 
 // import fruit
-const fruit = require("./Fruits");
-console.log(fruit);
+// const fruit = require("./Fruits");
+// console.log(fruit);
+
+
+// import random-words npm package
+
+import { generate } from "random-words";
+console.log(generate(3));
