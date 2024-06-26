@@ -1,0 +1,46 @@
+{
+  "jay": {
+    "name": "jay",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1459356979461-dae1b8dcb702?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1504203772830-87fba72385ee?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1460056560479-46cf73637e6e?q=80&w=1896&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 1065,
+        "comments": 200
+      }
+    ]
+  },
+  "aashu": {
+    "name": "aashu",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://images.unsplash.com/photo-1561720842-51b575d6f799?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1497169190325-c2abbe00c1a1?q=80&w=2027&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  }
+}
